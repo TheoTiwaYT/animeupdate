@@ -1,0 +1,587 @@
+[
+    {
+        "question": "O__ __C_ _A_",
+        "answer": "One Punch Man",
+        "clues": [
+            "A superhero who can defeat enemies with a single punch.",
+            "The protagonist has overwhelming strength.",
+            "Saitama is the hero's name."
+        ]
+    },
+    {
+        "question": "N___T_",
+        "answer": "Naruto",
+        "clues": [
+            "A young ninja with blonde hair.",
+            "Dreams of becoming the strongest ninja in the village.",
+            "Has a dream of being acknowledged by everyone."
+        ]
+    },
+    {
+        "question": "__A__ _O__",
+        "answer": "Death Note",
+        "clues": [
+            "A mysterious notebook that can kill people whose names are written in it.",
+            "Used by a high school student to rid the world of criminals.",
+            "The user can control the time and cause of death."
+        ]
+    },
+    {
+        "question": "_T__C_ _N __T__",
+        "answer": "Attack on Titan",
+        "clues": [
+            "An anime with a theme of humans fighting against giant humanoid creatures.",
+            "The remaining humans live in a city protected by three walls.",
+            "The Titans have an insatiable appetite for humans."
+        ]
+    },
+    {
+        "question": "__K__ G____",
+        "answer": "Tokyo Ghoul",
+        "clues": [
+            "A story of a young man turned into a half-ghoul after an encounter with one.",
+            "Struggles to adapt to his new life as a part-ghoul, part-human.",
+            "Ghouls are deadly predators that devour human flesh."
+        ]
+    },
+    {
+        "question": "S___D A__ O____E",
+        "answer": "Sword Art Online",
+        "clues": [
+            "An anime set in a virtual reality MMORPG game.",
+            "Players become trapped in the game and must clear all levels to escape.",
+            "The protagonist's journey revolves around the game's world."
+        ]
+    },
+    {
+        "question": "K___T__ _O Y___A",
+        "answer": "Kimetsu no Yaiba",
+        "clues": [
+            "The story follows a young boy whose family is slaughtered by demons.",
+            "He becomes a demon slayer to seek revenge and cure his sister.",
+            "Within the demon slayer organization, there are 9 strongest pillars."
+        ]
+    },
+    {
+        "question": "H____R X H____R",
+        "answer": "Hunter x Hunter",
+        "clues": [
+            "The story centers on a young boy aspiring to become a Hunter.",
+            "Hunters are exceptional individuals with special privileges.",
+            "The protagonist's father is a legendary Hunter."
+        ]
+    },
+    {
+        "question": "__K_ __ H___ A______A",
+        "answer": "Boku no Hero Academia",
+        "clues": [
+            "The anime is set in a world where nearly everyone has superpowers.",
+            "The protagonist is born without powers but still dreams of becoming a hero.",
+            "Heroes and villains clash in a society where quirks define power."
+        ]
+    },
+    {
+        "question": "__T___V_ __N__",
+        "answer": "Detective Conan",
+        "clues": [
+            "A Japanese detective manga and anime series.",
+            "The protagonist, Shinichi Kudo, is transformed into a child and adopts the alias Conan Edogawa.",
+            "The series follows Conan solving various criminal cases while searching for a cure to his condition."
+        ]
+    },
+    {
+        "question": "__J__S_ ___S__",
+        "answer": "Jujutsu Kaisen",
+        "clues": [
+            "This anime follows a high school student who gets involved in a world filled with curses and sorcerers after encountering a powerful cursed object.",
+            "Follows the story of Yuji Itadori, a high school student who becomes a Jujutsu Sorcerer.",
+            "Involves exorcising Curses and fighting supernatural threats."
+        ]
+    },
+    {
+        "question": "A_ _O _R____T__",
+        "answer": "Ao no Orchestra",
+        "clues": [
+            "This anime has a music and school theme.",
+            "This anime follows Hajime, who used to play the violin amazingly well but stopped because of a scandal involving his father. Now, inspired by a classmate's violin playing, he dreams of returning to music.",
+            "Hajime is aiming to join the famous Umimaku High School's orchestra, but to do so, he needs to face his past fears and insecurities about music."
+        ]
+    },
+    {
+        "question": "__R_ __M___I",
+        "answer": "Afro Samurai",
+        "clues": [
+            "This anime aired in May 2007",
+            "Follows the journey of the Main Character, a samurai seeking revenge for his father's murder.",
+            "The Main Character is the holder of the Number 1 headband, making him the target of all other warriors."
+        ]
+    },
+    {
+        "question": "_P_ _ F____Y",
+        "answer": "Spy x Family",
+        "clues": [
+            "This anime was created by a Japanese manga artist named Endou Tatsuya",
+            "Follows the story of a spy, an assassin, and a telepathic girl who form a fake family for their own purposes.",
+            "The spy, codenamed Twilight, needs to infiltrate an elite school, and the assassin, Yor, needs a family to accomplish a mission to kill a political leader."
+        ]
+    },
+    {
+        "question": "__LL_____ _L_____S_",
+        "answer": "Fullmetal Alchemist",
+        "clues": [
+            "Follows the journey of two brothers who use alchemy in their quest to find the Philosopher's Stone.",
+            "Edward Elric and Alphonse Elric are the main characters.",
+            "Edward has automail limbs, while Alphonse's soul is bound to a suit of armor."
+        ]
+    },
+    {
+        "question": "_S__ __ _O",
+        "answer": "Oshi no Ko",
+        "clues": [
+            "This anime tells about the life of 2 Children who had to lose their mother because their mother was killed by someone unknown and want revenge",
+            "Gorou Amemiya died and was reincarnated as the child of a famous idol, Ai Hoshino with the name Aqua",
+            "Ruby, Arima Kana and Mem-cho joined the idol group called B-Komachi"
+        ]
+    },
+    {
+        "question": "B_K_ N_ ____R_",
+        "answer": "Boku no Kokoro",
+        "clues": [
+            "Japanese manga series written and illustrated by Norio Sakurai.",
+            "Tells about Kyoutarou Ichikawa who harbors a dark desire to see his classmate Anna Yamada in pain and dreams of ending his life.",
+            "However, as Ichikawa spent more time with Yamada, he discovered a different side to him and began to feel the desire to protect him."
+        ]
+    },
+    {
+        "question": "B____ _L_V__",
+        "answer": "Black Clover",
+        "clues": [
+            "\"Never give up is my magic\"",
+            "The anime is set in a world where magic is everything, and people are born with the ability to use mana.",
+            "Asta, the protagonist, is born without any mana, making him an anomaly in a world where magic is essential."
+        ]
+    },
+    {
+        "question": "S_U_ __T__",
+        "answer": "Soul Eater",
+        "clues": [
+            "This anime is about a young man with a special talent who wants to become the Wizard King.",
+            "He and his friends attend a magic school called the Magic Academy.",
+            "On the way to reach his goal, he must collect the mysterious \"Magic Treasure\"."
+        ]
+    },
+    {
+        "question": "__M__R_",
+        "answer": "Hamtaro",
+        "clues": [
+            "This anime is a story about a boy who finds a mysterious and rare animal that becomes his best friend.",
+            "The animal has a cute shape with long ears and soft yellow fur.",
+            "Together, this boy and the rare animal go on an adventure and have a magical adventure."
+        ]
+    },
+    {
+        "question": "H__Y___!!",
+        "answer": "Haikyuu!!",
+        "clues": [
+            "The anime follows the story of Shoyo Hinata, a short but talented high school volleyball player with a dream of becoming a 'Little Giant' like his idol.",
+            "Karasuno, a once-powerful team, is on a mission to restore its former glory and compete at the national level.",
+            "As Hinata and his teammates face tough opponents and develop their skills, the anime beautifully portrays themes of teamwork, perseverance, and the thrill of competition in the world of high school volleyball."
+        ]
+    },
+    {
+        "question": "A_____U K___S___S_",
+        "answer": "Ansatsu Kyoushitsu",
+        "clues": [
+            "This anime is about a strange teacher with a smiley face who teaches a class that's out of the ordinary.",
+            "The students in this anime have an unusual mission: to assassinate their teacher before he destroys the Earth.",
+            "The teacher is no ordinary human; he's a powerful creature with a yellow, smiley, octopus-like appearance."
+        ]
+    },
+    {
+        "question": "__G___R__U",
+        "answer": "Jigokuraku",
+        "clues": [
+            "This manga and anime has another name in English, namely Hell's Paradise",
+            "This manga and anime follows the story of Gabimaru, a skilled shinobi known as 'Hollow' due to his lack of emotions.",
+            "The Main Character is called \"The Empty\""
+        ]
+    },
+    {
+        "question": "__. S___E",
+        "answer": "Dr. Stone",
+        "clues": [
+            "The anime is set in a post-apocalyptic world where humanity was petrified in stone for thousands of years due to a mysterious phenomenon.",
+            "Senku Ishigami, a brilliant and scientific-minded high school student, breaks free from his petrified state and vows to bring back civilization using his knowledge of science.",
+            "With the help of his friends and allies, Senku aims to rebuild society, rediscover lost technologies, and unlock the secrets of the petrification that wiped out humanity."
+        ]
+    },
+    {
+        "question": "V____N_ __G_",
+        "answer": "Vinland Saga",
+        "clues": [
+            "This anime follows the journey of a young Viking named Thorfinn, seeking revenge in a historical setting.",
+            "Thorfinn lost his father because he was killed by a man named Askeladd",
+            "In S2, he's become \"I have no enemy\""
+        ]
+    },
+    {
+        "question": "T____I _H_____A S____ D__T_ K_N",
+        "answer": "Tensei shitara Slime Datta Ken",
+        "clues": [
+            "The anime follows the story of Satoru Mikami, a 37-year-old corporate worker who is killed in a random stabbing incident.",
+            "After his death, he is reincarnated in a fantasy world as a powerful slime monster with unique abilities",
+            "As a slime named Rimuru Tempest, he embarks on a journey to explore the new world, make friends, and build his own community."
+        ]
+    },
+    {
+        "question": "_H__L__T_",
+        "answer": "Charlotte",
+        "clues": [
+            "The anime follows the story of Yuu Otosaka, a high school student with a special ability: the power to possess someone else's body for a short period of time.",
+            "He uses this power to live an easygoing and carefree life, but his life takes a dramatic turn when he is caught by Nao Tomori, a girl with the ability to become invisible to one person at a time.",
+            "Nao reveals that she is part of a student council that helps students with special abilities like Yuu, and she persuades him to transfer to Hoshinoumi Academy, a school for students with supernatural powers."
+        ]
+    },
+    {
+        "question": "S__G____ W_ __M_ N_ U__",
+        "answer": "Shigatsu wa Kimi no Uso",
+        "clues": [
+            "The Main Character called \"The Human Metronom\" cuz his piano's play",
+            "As Kousei and Kaori perform together in various musical competitions, their deep emotional connection develops into something more profound.",
+            "His life takes a turn when he meets a spirited violinist named Kaori Miyazono, who helps him rediscover his love for music and guides him back into the world of music."
+        ]
+    },
+    {
+        "question": "S____G__I _O _O__A",
+        "answer": "Shokugeki no Souma",
+        "clues": [
+            "The anime follows the story of Souma Yukihira, a highly talented teenage chef who works at his family's diner.",
+            "At Totsuki, students participate in intense cooking battles called 'Shokugeki' to prove their skills and rise through the ranks.",
+            "Souma's journey at the academy is filled with challenges, friendships, and culinary creativity as he strives to become a top chef and surpass his father's skills."
+        ]
+    },
+    {
+        "question": "O___L___",
+        "answer": "Overlord",
+        "clues": [
+            "The anime follows the story of Momonga, a powerful player in an immersive virtual reality MMORPG called Yggdrasil.",
+            "When the game's servers are scheduled to shut down, Momonga decides to stay online until the last moment, but to his surprise, he finds himself trapped in the game as his in-game character, a powerful skeletal mage.",
+            "In this new world, Momonga takes on the name of Ainz Ooal Gown and sets out to uncover the mystery behind his situation while also using his vast power to conquer the virtual world and its inhabitants."
+        ]
+    },
+    {
+        "question": "__C__I T__ R___!",
+        "answer": "Bocchi the Rock!",
+        "clues": [
+            "This anime has a comedy genre.",
+            "The Main Character is a shy and lonely girl, dreams of both making friends and performing in a band. She meets Nijika, an energetic drummer, and later Ryou, a cool bassist, as they form the Kessoku Band.",
+            "She named herself **Guitar Hero** on her youtube channel"
+        ]
+    },
+    {
+        "question": "_L__ L__K",
+        "answer": "Blue Lock",
+        "clues": [
+            "Football Anime",
+            "Yoichi Isagi missed a crucial goal that would have taken his high school soccer team to the nationals.",
+            "He accepted an invitation from the Japan Football Union to participate in their project, which aims to turn one selected U-18 striker into the star striker of the Japanese national team."
+        ]
+    },
+    {
+        "question": "__M___T___ __N___",
+        "answer": "Summertime Render",
+        "clues": [
+            "The Main Character can travel back into the past when he died",
+            "There's a plague in the island that can copy someone and they called it \"kage\"",
+            "The Main Character tried to kill the kage"
+        ]
+    },
+    {
+        "question": "__R__O __ B__K_T",
+        "answer": "Kuroko no Basket",
+        "clues": [
+            "There's a basketball team in Japan that called \"Kiseki no Sedai\" on Teiko Junior High School",
+            "Each member has a special ability on basketball games",
+            "The ace of their team is too powerfull even if he's not playing seriously"
+        ]
+    },
+    {
+        "question": "_E___ N_ K_",
+        "answer": "Tenki no Ko",
+        "clues": [
+            "The anime film follows the story of Hodaka Morishima, a high school boy who runs away from his home on a remote island and moves to Tokyo.",
+            "During his time in Tokyo, Hodaka meets a mysterious and cheerful girl named Hina Amano, who has the ability to control the weather.",
+            "She used to pray to clear the weather"
+        ]
+    },
+    {
+        "question": "K___ N_ _A __.",
+        "answer": "Kimi no Na wa.",
+        "clues": [
+            "The anime film revolves around two teenagers, Mitsuha Miyamizu, a high school girl living in a rural town, and Taki Tachibana, a high school boy residing in Tokyo.",
+            "Despite living in different places, Mitsuha and Taki find themselves mysteriously switching bodies during their dreams.",
+            "As Mitsuha and Taki try to unravel the mystery behind their body-swapping, they embark on a journey that intertwines their destinies and changes their lives forever."
+        ]
+    },
+    {
+        "question": "B___T_",
+        "answer": "Boruto",
+        "clues": [
+            "The anime is a sequel to the popular anime series 'Naruto' and follows the next generation of ninjas in the Hidden Leaf Village.",
+            "Boruto Uzumaki, the son of Naruto Uzumaki and Hinata Hyuga, is the protagonist of the series.",
+            "Aspiring to become a powerful ninja like his father, Boruto faces various challenges and adventures alongside his friends and fellow ninja academy students."
+        ]
+    },
+    {
+        "question": "R___U__ K__S___",
+        "answer": "Rurouni Kenshin",
+        "clues": [
+            "The anime and manga series is set in the Meiji era of Japan, after the end of the Bakumatsu period.",
+            "The story follows Himura Kenshin, a legendary assassin known as 'Hitokiri Battosai' during the Bakumatsu, who has vowed never to kill again.",
+            "Kenshin wields a reverse-blade sword and adopts a new identity as a wanderer, seeking redemption for his past deeds by helping others."
+        ]
+    },
+    {
+        "question": "A_ N_ E__R____",
+        "answer": "Ao no Exorcist",
+        "clues": [
+            "The anime and manga series follows the story of Rin Okumura, a teenager who discovers that he is the son of Satan, the ruler of the demon world.",
+            "Determined to become an exorcist and fight against his demonic heritage, Rin enrolls at True Cross Academy, an exorcist training school.",
+            "He joins the Exwires, a group of students who are training to become exorcists and purify evil spirits known as 'Impurities' that inhabit the human world."
+        ]
+    },
+    {
+        "question": "J___ N_ K__Y__ N_ B_____",
+        "answer": "JoJo no Kimyou na Bouken",
+        "clues": [
+            "The anime and manga series is known for its unique and iconic art style, as well as its inventive and over-the-top battles.",
+            "The story is divided into several parts, each following the adventures of a different member of the Joestar family.",
+            "It all begins with Jonathan Joestar in the late 19th century and continues with his descendants throughout the 20th century and beyond."
+        ]
+    },
+    {
+        "question": "_L__ D___",
+        "answer": "Slam Dunk",
+        "clues": [
+            "The anime and manga series revolves around Hanamichi Sakuragi, a delinquent and high school student with a tough reputation.",
+            "After being rejected by a girl who only likes basketball players, Sakuragi decides to join the basketball team to impress her.",
+            "As he grows as a player and forms bonds with his teammates, the series follows the Shohoku High School basketball team on their journey to become champions."
+        ]
+    },
+    {
+        "question": "A__-__R_",
+        "answer": "Aki-Sora",
+        "clues": [
+            "The manga series revolves around the lives of Brother and sister, a pair of close siblings who share a deep and intimate bond.",
+            "Their relationship goes beyond the usual sibling connection and develops into a complex and taboo romance.",
+            "As they struggle with their feelings for each other, the manga explores themes of love, desire, and the societal taboo surrounding incestuous relationships."
+        ]
+    },
+    {
+        "question": "T___O R___N___S",
+        "answer": "Tokyo Revengers",
+        "clues": [
+            "The anime and manga series follows the story of Takemichi Hanagaki, a disheartened and unemployed young man.",
+            "After a tragic incident, Takemichi discovers that he has the ability to time travel to the past.",
+            "He finds himself transported 12 years into the past when he was still in middle school and part of a notorious gang called 'Tokyo Manji Gang'."
+        ]
+    },
+    {
+        "question": "_L__C_",
+        "answer": "Bleach",
+        "clues": [
+            "The anime and manga series follows the story of Ichigo Kurosaki, a high school student who accidentally acquires the powers of a Soul Reaper, a celestial being responsible for defending the living world from evil spirits known as Hollows.",
+            "With his newfound abilities, Ichigo takes on the duty of protecting both the living and spirit worlds.",
+            "He forms bonds with other Soul Reapers, including Rukia Kuchiki, and faces various challenges and battles against powerful foes, including other Soul Reapers, Hollows, and evil spirits."
+        ]
+    },
+    {
+        "question": "B__S___",
+        "answer": "Berserk",
+        "clues": [
+            "The manga series follows the dark and violent adventures of Guts, a skilled and ruthless swordsman.",
+            "Guts is a lone mercenary who wields a massive sword known as the 'Dragon Slayer'.",
+            "He becomes entangled in a world filled with dark and malevolent forces, including demons and otherworldly beings."
+        ]
+    },
+    {
+        "question": "__R_M___",
+        "answer": "Horimiya",
+        "clues": [
+            "The manga series follows the story of Kyoko Hori and Izumi Miyamura, two high school students who lead seemingly ordinary lives.",
+            "Hori is a popular and outgoing girl at school, while Miyamura is a quiet and introverted boy with a different appearance outside of school.",
+            "However, the two have a secret they share: outside of school, Hori transforms into a caring and responsible sister for her younger brother, and Miyamura reveals his pierced and tattooed appearance."
+        ]
+    },
+    {
+        "question": "S_____;G___",
+        "answer": "Steins;Gate",
+        "clues": [
+            "The anime and visual novel follow the story of Rintarou Okabe, a self-proclaimed 'mad scientist' and his friends at the Future Gadget Laboratory.",
+            "Okabe accidentally invents a device known as the 'Phone Microwave', which can send text messages into the past.",
+            "However, this discovery leads to unintended consequences, as Okabe and his friends become entangled in a dangerous conspiracy involving time travel and altering the past."
+        ]
+    },
+    {
+        "question": "__N___R",
+        "answer": "Monster",
+        "clues": [
+            "The manga and anime series follows the story of Dr. Kenzo Tenma, a skilled and compassionate neurosurgeon working in Germany.",
+            "One night, Dr. Tenma is faced with a moral dilemma when he has to choose between saving the life of a young boy named Johan or the mayor of the city.",
+            "Dr. Tenma decides to save Johan's life, but his choice has far-reaching consequences as Johan grows up to become a dangerous and enigmatic serial killer."
+        ]
+    },
+    {
+        "question": "_D_ __X_",
+        "answer": "Odd Taxi",
+        "clues": [
+            "The anime series follows the story of Kotogawa, a middle-aged and introverted taxi driver who lives a seemingly ordinary life.",
+            "However, behind the wheel of his taxi, Kotogawa becomes a keen observer of the people he transports and the secrets they carry.",
+            "One night, a high school girl named Odokawa enters his taxi and starts a chain of events that leads to a mysterious disappearance."
+        ]
+    },
+    {
+        "question": "K___ N_ ___Z__ W_ T___T__",
+        "answer": "Kimi no Suizou wo Tabetai",
+        "clues": [
+            "The anime film follows the story of a high school student named Sakura Yamauchi.",
+            "Sakura is terminally ill with a pancreatic disease and has only a limited time left to live.",
+            "Sakura decides to keep her illness a secret and confides in her classmate, Haruki Shiga."
+        ]
+    },
+    {
+        "question": "Y____H__ S_____ T_____",
+        "answer": "Yojouhan Shinwa Taikei",
+        "clues": [
+            "The anime series follows the story of an unnamed protagonist, a college student who is unsatisfied with his current college life.",
+            "The protagonist feels like he has made the wrong choices and wishes to experience a 'rose-colored campus life' but always ends up in the same situations.",
+            "Each episode explores different parallel universes and timelines, where the protagonist joins various clubs, interacts with different people, and pursues different paths in life."
+        ]
+    },
+    {
+        "question": "M__H___I",
+        "answer": "Mushishi",
+        "clues": [
+            "The anime series follows the story of Ginko, a traveling 'Mushi Master' in a world inhabited by mysterious creatures known as 'Mushi.'",
+            "Mushi are primitive and supernatural beings that exist beyond the realm of ordinary life.",
+            "Ginko's job is to travel from place to place to investigate and deal with various mushi-related incidents."
+        ]
+    },
+    {
+        "question": "H___R_ N_ H___",
+        "answer": "Hotaru no Haka",
+        "clues": [
+            "The anime film tells a heartbreaking and poignant story set during World War II.",
+            "The story follows the lives of two siblings, Seita and Setsuko, who are orphaned and left to fend for themselves after their mother dies in a bombing raid.",
+            "Seita, the older brother, tries his best to protect and provide for his younger sister, Setsuko, but their circumstances become increasingly dire."
+        ]
+    },
+    {
+        "question": "M___N___",
+        "answer": "Mononoke",
+        "clues": [
+            "The anime series follows the mysterious Medicine Seller, a wandering exorcist.",
+            "He travels from place to place in feudal Japan, seeking out malevolent spirits",
+            "The Medicine Seller's main weapon is his keen ability to perceive the Form, Truth, and Reasoning of a ..., which allows him to strike them down."
+        ]
+    },
+    {
+        "question": "H__S___ N_ __N_",
+        "answer": "Houseki no Kuni",
+        "clues": [
+            "The anime series is set in a world where humanoid gems, known as 'Gem people,' coexist with human-like creatures called 'Lunarians.'",
+            "The story follows the main character, Phosphophyllite, also known as Phos, a young and brittle gem with a hardness level of only 3.5 on the Mohs scale.",
+            "Phos is assigned to create an encyclopedia by Kongou-sensei, the wise and mysterious master of the gem people."
+        ]
+    },
+    {
+        "question": "_R___ G___",
+        "answer": "Cross Game",
+        "clues": [
+            "The anime series follows the story of Kou Kitamura, a talented baseball pitcher, and his childhood friend, Wakaba Tsukishima.",
+            "Wakaba is the younger sister of Kou's best friend, Wakaba Tsukishima, who tragically passes away in an accident.",
+            "After Wakaba's death, Kou becomes determined to fulfill her dream of seeing him play in the high school baseball tournament at Koshien Stadium."
+        ]
+    },
+    {
+        "question": "B__C___!",
+        "answer": "Baccano!",
+        "clues": [
+            "The anime series is known for its non-linear storytelling and complex narrative.",
+            "Set in the 1930s, the story takes place in several different timelines and follows multiple interconnected plotlines.",
+            "The main plot centers around the events that unfold aboard the luxury train, the Flying Pussyfoot, where various characters, including immortals and gangsters, cross paths."
+        ]
+    },
+    {
+        "question": "U____ D___",
+        "answer": "Usagi Drop",
+        "clues": [
+            "The anime series follows the story of Daikichi Kawachi, a 30-year-old single man who works in an office.",
+            "After the death of his grandfather, Daikichi discovers that his grandfather had a love child with an unknown woman, making her his aunt Rin Kaga.",
+            "To Daikichi's surprise, no one in the family is willing to take care of Rin, who is only six years old."
+        ]
+    },
+    {
+        "question": "K-__!",
+        "answer": "K-On!",
+        "clues": [
+            "The anime series follows the daily lives and adventures of five high school girls who join the light music club, also known as the 'Keionbu.'",
+            "The main character is Yui Hirasawa, a carefree and airheaded girl who joins the club without knowing how to play any musical instruments.",
+            "As Yui learns to play the guitar, the club members form a band named 'Ho-kago Tea Time' and set their sights on performing at the school's cultural festival."
+        ]
+    },
+    {
+        "question": "P__C__-P___",
+        "answer": "Psycho-Pass",
+        "clues": [
+            "The anime is set in a dystopian future where a sophisticated surveillance system known as the 'Sibyl System' monitors and assesses the mental state of individuals.",
+            "The story follows Akane Tsunemori, a young woman who joins the Public Safety Bureau's Criminal Investigation Division.",
+            "As she works alongside enforcers, latent criminals with high Crime Coefficients, she starts questioning the effectiveness and morality of the Sibyl System."
+        ]
+    },
+    {
+        "question": "O__ O___",
+        "answer": "One Outs",
+        "clues": [
+            "The anime series follows the story of Toua Tokuchi, a talented but unconventional baseball pitcher.",
+            "He joins the Lycaons, a weak baseball team with a losing streak and a desperate need for a turnaround.",
+            "Toua makes a contract with the team's owner, who promises him a massive bonus for every out he pitches but will penalize him for every run he allows."
+        ]
+    },
+    {
+        "question": "_6",
+        "answer": "86",
+        "clues": [
+            "the military are forced to fight against the Empire's autonomous Legion",
+            "They are under the commands of \"Handlers\"",
+            "Known within the military as the Eighty-Six"
+        ]
+    },
+    {
+        "question": "_A__U _ __N__L",
+        "answer": "Natsu e Tunnel",
+        "clues": [
+            "The protagonists finding tunnel called \"Urashima Tunnel\"",
+            "that tunnel can give you everything that gone",
+            "in that tunnel, the time goes by very fast"
+        ]
+    },
+    {
+        "question": "E___ N_ ____B____I",
+        "answer": "Enen no Shouboutai",
+        "clues": [
+            "There's a firefighter that resting a flaming human",
+            "The protagonists is a firefighter that can control fire with his feet",
+            "The protagonists mission is to finding his brother and his mother"
+        ]
+    },
+    {
+        "question": "_Y_____ R____L",
+        "answer": "Lycoris Recoil",
+        "clues": [
+            "In the future, Japan has the lowest criminality because of the organization called \"lycoris\" that kills  the criminal in a few seconds",
+            "The protagonists is the best lycoris, she have the ability to dodge the bullet",
+            "Protagonists didn't want to kill anybody else, even her enemy"
+        ]
+    }
+]
